@@ -58,18 +58,15 @@ Este projeto utiliza as APIs de Clima e de Trânsito para fornecer informações
 
 ### Passo 3: Configurar o Banco de Dados MySQL
 1. Baixe e instale o MySQL da [página oficial](https://dev.mysql.com/downloads/).
-2. Execute o arquivo `scriptBD.sql` para criar a instância vazia do banco de dados:
-   ```sh
-   mysql -u seu_usuario -p < scriptBD.sql
+
+2. Configure as variáveis de conexão no seu script Python:
    ```
-3. Configure as variáveis de conexão no seu script Python:
-   ```python
-   db_config = {
+   
        'user': 'seu_usuario',
        'password': 'sua_senha',
        'host': 'localhost',
        'database': 'seu_banco_de_dados'
-   }
+   
    ```
 
 ### Passo 4: Substituir as Chaves das APIs
