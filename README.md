@@ -26,7 +26,6 @@ Este projeto utiliza as APIs de Clima e de Trânsito para fornecer informações
 3. **Banco de Dados MySQL:**
    - É necessário ter um banco de dados MySQL instalado e configurado na sua máquina.
    - O MySQL pode ser baixado gratuitamente através do [link oficial](https://dev.mysql.com/downloads/).
-   - Um arquivo SQL (`scriptBD.sql`) contendo a criação da instância vazia do banco de dados está disponível no repositório.
 
 4. **Power BI:**
    - O Power BI Desktop pode ser baixado gratuitamente através do [link oficial](https://powerbi.microsoft.com/).
