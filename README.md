@@ -1,5 +1,7 @@
 # README
 
+##PROJETO FEITO COMO DESAFIO E DESENVOLVIDO EM 2 DIAS
+
 ## Descrição
 Este projeto utiliza as APIs de Clima e de Trânsito para fornecer informações atualizadas sobre o tempo e condições de tráfego. O projeto requer a instalação de bibliotecas específicas e a configuração de um banco de dados MySQL. Além disso, você poderá visualizar os dados utilizando o Power BI.
 
